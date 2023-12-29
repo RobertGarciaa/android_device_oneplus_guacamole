@@ -8,6 +8,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_guacamole.mk
     
 COMMON_LUNCH_CHOICES := \
-    aosp_renoir-user \
-    aosp_renoir-userdebug \
-    aosp_renoir-eng
+    aosp_guacamole-user \
+    aosp_guacamole-userdebug \
+    aosp_guacamole-eng
